@@ -1,5 +1,7 @@
 # The Guides Grand Adventure
 
+### (Made for CS App Dev course)
+
 This is a Repository for Roadrunner Interactive's (Team 11) Application Programming semester project.
 
 <p align="center">
