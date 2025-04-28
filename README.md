@@ -167,7 +167,7 @@ These apply to assets in the game that were sourced from outside creators, huge 
 
 [***Freesound***](https://freesound.org/) - Royalty Free Sounds.
 
-[***DaFont***](https://www.dafont.com/) - Fonts and Typefaces for free personal and commercial use. *(Highly reccomend for fellow UI nerds!)*
+[***DaFont***](https://www.dafont.com/) - Fonts and Typefaces for free personal and commercial use.
 
 [***Spriters Resource***](https://www.spriters-resource.com/ds_dsi/pokemonblack2white2/) - Pokemon Black/White 2 Spritesheets.
 
